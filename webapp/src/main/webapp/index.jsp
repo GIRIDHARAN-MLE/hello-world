@@ -3,6 +3,10 @@
     <h1>New user Register for aws devOps & cloud ml-ai Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
+
+    <label for="course"><b>Enter course</b></label>
+    <input type="text" placeholder="Enter course" name="Name" id="Name" required>
+    <br>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
