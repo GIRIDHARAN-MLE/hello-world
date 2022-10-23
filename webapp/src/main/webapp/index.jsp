@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="course-mlops-dataops-devops"><b>Enter ci-cd</b></label>
+    <label for="course-mlops-devops"><b>Enter ci-cd</b></label>
     <input type="text" placeholder="Enter course" name="Name" id="Name" required>
     <br>
      
